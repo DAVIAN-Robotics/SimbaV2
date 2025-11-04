@@ -1,6 +1,6 @@
 # SimbaV2
 
-> **DAVIAN Robotics, KAIST AI**  
+> **DAVIAN Robotics, KAIST AI & Sony AI**  
 > ICML 2025 (spotlight).
 
 ## Introduction
