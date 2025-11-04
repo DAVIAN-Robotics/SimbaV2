@@ -1,5 +1,8 @@
 # SimbaV2
 
+> **DAVIAN Robotics, KAIST AI**  
+> ICML 2025 (spotlight).
+
 ## Introduction
 
 SimbaV2 is a reinforcement learning architecture designed to stabilize training via hyperspherical normalization. By increasing model capacity and compute, SimbaV2 achieves state-of-the-art results on 57 continuous control tasks from MuJoCo, DMControl, MyoSuite, and Humanoid-bench.
